@@ -1,0 +1,14 @@
+.test {
+    cursor: pointer;
+    position: relative;
+}
+
+.test:hover {
+    box-shadow: rgba(0, 0, 0, 0.05) 0px 6px 24px 0px, rgba(0, 0, 0, 0.08) 0px 0px 0px 1px;
+}
+
+.cssFix {
+    white-space: pre-wrap;
+    /* or pre-line */
+    text-align: center;
+}
